@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Compra de Assentos</title>
+  <link rel="stylesheet" href="css/compra.css">
+  <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+</head>
+<body>
+  <div class="wrapper">
+    <form id="compraForm">
+      <h1>Finalizar Compra</h1>
+
+      <div class="input-box">
+        <input type="text" name="nome" placeholder="Nome Completo" required>
+      </div>
+
+      <div class="input-box">
+        <input type="text" name="cpf" placeholder="CPF" required>
+      </div>
+
+      <div class="input-box">
+        <input type="text" name="telefone" placeholder="Telefone" required>
+      </div>
+
+      <div class="input-box">
+        <input type="text" name="assentos" id="assentos" placeholder="Assentos Selecionados" readonly required>
+      </div>
+
+      <div class="input-box">
+        <input type="text" name="valor" id="valor" placeholder="Valor Total" readonly required>
+      </div>
+
+      <div class="input-box">
+        <input type="text" name="coordenador" placeholder="Nome do Coordenador">
+      </div>
+
+      <button type="submit" class="btn">Finalizar Compra</button>
+    </form>
+  </div>
+
+  <script src="js/compra.js"></script>
+</body>
+</html>

@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="./imagens/iconeI.png" type="image/x-icon" />
+    <title>Meu Perfil</title>
+    <link rel="stylesheet" href="css/sidebar.css">
+    <link rel="stylesheet" href="css/card.css">
+    <link rel="stylesheet" href="css/perfil.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+</head>
+
+<nav id="sidebar">
+    <ul>
+      <li class="logo">
+        Menu
+        <button onclick="toggleSidebar()" id="toggle-btn">
+          <i class='bx bx-menu'></i>
+        </button>
+      </li>
+      
+      <li class="active">
+        <a href="inicio.html">
+          <i class='bx bx-user'></i>
+          <span>Coordenadores</span>
+        </a>
+      </li>
+      <li>
+        <a href="pagamentos.html">
+          <i class='bx bx-wallet'></i>
+          <span>Pagamentos</span>
+        </a>
+      </li>
+      <li>
+        <a href="perfil.html">
+          <i class='bx bx-cog'></i>
+          <span>Meu Perfil</span>
+        </a>
+      </li>
+      <li>
+        <a href="index.html">
+          <i class='bx bx-log-out'></i>
+          <span>Log out</span>
+        </a>
+      </li>
+    </ul>
+  </nav>
+    <div class="profile-container">
+  <div class="profile-card">
+    <div class="profile-row">
+      <div class="profile-content">
+        <div class="profile-header">
+          <img src="coordenadores/coordenador - 4.jpg" alt class="profile-avatar">
+          <div class="profile-upload">
+            <label class="upload-button">
+              Alterar Foto
+              <input type="file" class="file-input">
+            </label>
+            <div class="upload-info">Permitido JPG, GIF ou PNG. Tamanho max de 800K</div>
+          </div>
+        </div>
+        <hr class="divider">
+        <div class="profile-form">
+          <div class="form-item">
+            <label class="form-label">Nome de Usuário</label>
+            <input type="text" class="form-input" value="Luana Marques">
+          </div>
+          <div class="form-item">
+            <label class="form-label">E-mail</label>
+            <input type="text" class="form-input" value="lua_marques@gmail.com">
+          </div>
+          <div class="form-item">
+            <label class="form-label">Senha atual</label>
+            <input type="password" class="form-input">
+          </div>
+          <div class="form-item">
+            <label class="form-label">Nova senha</label>
+            <input type="password" class="form-input">
+          </div>
+          <div class="form-item">
+            <label class="form-label">Confirme a senha</label>
+            <input type="password" class="form-input">
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <div class="profile-actions">
+    <button type="button" class="btn-save">Salvar Alterações</button>
+  </div>
+</div>
+
+    <script type="text/javascript" src="js/app.js" defer></script>
+
+</body>
+</html>
