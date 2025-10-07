@@ -24,7 +24,7 @@ Fui responsável por toda a parte de **implementação do front-end**, incluindo
 ---
 
 ## 🧑‍💻 Telas
-🔗 **Acesse o protótipo completo:** [Clique aqui para visualizar no Figma](#)  
+🔗 **Em breve**
 
 ### 📸 **Exemplos de Telas**
 | Tela Coordenadores | Painel de Pagamentos | Tela de Reservas |
@@ -34,7 +34,8 @@ Fui responsável por toda a parte de **implementação do front-end**, incluindo
 ---
 
 ## 🎬 Vídeo do Protótipo em Ação
-🎥 **Em breve**  
+🎥 [Assista ao vídeo de demonstração](https://drive.google.com/file/d/1stgNPdDCRxufQk_C5yb_LVHTxgq6FWee/view?usp=sharing)
+
 
 ---
 
