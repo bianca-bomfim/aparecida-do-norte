@@ -38,4 +38,4 @@ Fui responsável por toda a parte de **implementação do front-end**, incluindo
 
 ---
 
-✨ *Desenvolvido com dedicação durante as aulas de laboratório web (FATEC).*
+✨ *Desenvolvido com dedicação durante as aulas de laboratório web (FATEC).
