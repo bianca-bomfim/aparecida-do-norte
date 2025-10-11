@@ -19,12 +19,9 @@ Fui responsável por toda a parte de **implementação do front-end**, incluindo
 - Definição da **identidade visual** e **fluxo de navegação**;  
 - Protótipo visual das telas no Figma para documentação e apresentação da interface.
 
-> 💡 Nota: As telas do Figma foram geradas a partir do código do front-end, ou seja, o protótipo reflete fielmente as interfaces desenvolvidas.
-
 ---
 
 ## 🧑‍💻 Telas
-🔗 **Em breve**
 
 ### 📸 **Exemplos de Telas**
 | Tela Coordenadores | Painel de Pagamentos | Tela de Reservas |
