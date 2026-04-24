@@ -8,7 +8,7 @@ O **Sistema de Viagens para Aparecida do Norte** é um projeto acadêmico desenv
 - Controle e registro de pagamentos;  
 - Interface intuitiva e moderna para facilitar o uso por administradores e usuários.  
 
-> ⚠️ **Observação:** Este repositório contém **apenas a parte do front-end** do projeto. Outras partes, como back-end e banco de dados, fazem parte do projeto completo, mas não estão incluídas aqui.
+> ⚠️ **Observação:** Este repositório contém **apenas a parte do front-end** do projeto. Outras partes, como back-end está neste repositorio https://github.com/Rogue-s-Haven/PI-aparecida/tree/main
 
 ---
 
